@@ -1,0 +1,600 @@
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 0 = 31*x - 336 + 119
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================

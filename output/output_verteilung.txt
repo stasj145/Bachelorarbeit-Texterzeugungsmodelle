@@ -1,0 +1,215 @@
+---QA_4000steps_774M---
+context Quelle: https://www.space.com/16080-solar-system-planets.html
+einfach
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When was Pluto discovered?
+[ANSWER]:1930
+[ANSWER]:1929
+99/1
+
+mittel schwer (ist vielleicht doch schwerer als ich dachte)
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When did Pluto stop being a planet?
+[ANSWER]:late 1990s
+[ANSWER]:2006
+[ANSWER]:mid-20th century
+[ANSWER]:mid 1990s
+[ANSWER]:2010
+[ANSWER]:1990
+[ANSWER]:1989
+[ANSWER]:2005
+[ANSWER]:1998
+[ANSWER]:when astronomers started arguing about whether Pluto was indeed a planet
+[ANSWER]:2007
+[ANSWER]:1993
+[ANSWER]:2000
+[ANSWER]:1992
+[ANSWER]:1930
+[ANSWER]:latter date of the Solar System
+49/11/1/3/2/18/1/4/2/1/3/1/1/1/1/1
+
+schwer
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:how many planets are in the solar system?
+[ANSWER]:nine
+[ANSWER]:eight
+[ANSWER]:seven
+[ANSWER]:six
+[ANSWER]:nearly
+92/4/1/2/1
+
+the Expanse
+[CONTEXT]: The first season is based to a large extent on the first volume of the book series Leviathan Awakening and was broadcast on Syfy from December 14, 2015 to February 2, 2016, with the first episode being released in advance as a stream on November 23, 2015. The second season, based on the rest of the first and part of the subsequent band Caliban's War, aired in the United States from February 1 to April 19, 2017. [1] In Germany, it will be broadcast on Netflix from September 8, 2017. [2] In March 2017, the extension of the series by a third season became known, which was broadcast in the USA from April 11 to June 27, 2018 and whose plot is based on parts of the second and the entire third volume.
+[QUESTION]: when was the third season aired?
+[ANSWER]:April 11 to June 27, 2018
+[ANSWER]:June 2017
+[ANSWER]:June 27, 2018
+[ANSWER]:January 19, 2017
+[ANSWER]:June 2018
+[ANSWER]:March 2017
+[ANSWER]:2018
+[ANSWER]:February 1 to April 19, 2017
+[ANSWER]:October 14, 2015 to February 2, 2016
+[ANSWER]:July 21, 2017
+[ANSWER]:September 8, 2017
+[ANSWER]:June
+[ANSWER]:August 21, 2017
+[ANSWER]:May 2016
+[ANSWER]:October 13, 2018
+[ANSWER]:June 12, 2018
+[ANSWER]:June 24, 2018
+20/34/19/1/1/8/1/2/1/1/4/3/1/1/1/1/1
+
+---QA_4000steps_355M---
+einfach
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When was Pluto discovered?
+[ANSWER]:1930
+[ANSWER]:1950
+[ANSWER]:1810
+[ANSWER]:July 6, 1930
+[ANSWER]:3030
+[ANSWER]:1920
+[ANSWER]:1830
+91/1/3/1/4/1/1
+
+mittel
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When did Pluto stop being a planet?
+[ANSWER]:2006
+[ANSWER]:2008
+99/1
+
+schwer
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:how many planets are in the solar system?
+[ANSWER]:eight
+[ANSWER]:nine
+[ANSWER]:seven
+64/35/1
+
+the Expanse
+[CONTEXT]: The first season is based to a large extent on the first volume of the book series Leviathan Awakening and was broadcast on Syfy from December 14, 2015 to February 2, 2016, with the first episode being released in advance as a stream on November 23, 2015. The second season, based on the rest of the first and part of the subsequent band Caliban's War, aired in the United States from February 1 to April 19, 2017. [1] In Germany, it will be broadcast on Netflix from September 8, 2017. [2] In March 2017, the extension of the series by a third season became known, which was broadcast in the USA from April 11 to June 27, 2018 and whose plot is based on parts of the second and the entire third volume.
+[QUESTION]: when was the third season aired?
+[ANSWER]:June 27, 2018
+[ANSWER]:April 11 to June 27, 2018
+[ANSWER]:January 1, 2018
+[ANSWER]:April 9
+[ANSWER]:April 19, 2017
+[ANSWER]:March 2017
+[ANSWER]:April 11, 2018
+[ANSWER]:February 1 to April 19, 2017
+[ANSWER]:January 26, 2018
+[ANSWER]:April 25, 2018
+[ANSWER]:2017
+[ANSWER]:April 11
+[ANSWER]:August 2, 2017
+[ANSWER]:June 27
+[ANSWER]:2016
+[ANSWER]:September 8, 2017
+[ANSWER]:May 2017
+19/44/1/1/3/5/10/3/1/2/1/4/1/2/1/1/1
+
+---QA_8000steps_774M---
+einfach
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When was Pluto discovered?
+[ANSWER]:1930
+100
+
+mittel
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar system's true planets to just eight.
+[QUESTION]:When did Pluto stop being a planet?
+
+---1558M---
+einfach
+-in:
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+-out:
+[ANSWER]: 1930
+[ANSWER]: 19 January 1930
+[ANSWER]: July 1930
+[ANSWER]: 1926
+[ANSWER]: May 19, 1930
+[ANSWER]: September 14, 1930
+[ANSWER]: December 19, 1930
+[ANSWER]: On July 14, 1930
+[ANSWER]: June 14, 1930
+[ANSWER]: July 31, 1930
+[ANSWER]: July 14, 1930
+[ANSWER]: February 14, 1930
+[ANSWER]: April 19, 1930
+[ANSWER]: January 1930
+[ANSWER]: 2006
+82/1/1/1/1/2/1/1/2/1/1/3/1/1/1
+
+schwer
+-in:
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]:When was Pluto discovered?
+[ANSWER]:1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: how many planets are in the solar system?
+-out:
+[ANSWER]:random sentence
+[ANSWER]: 9
+[ANSWER]: 109
+[ANSWER]: 100
+[ANSWER]: 10
+[ANSWER]: 250
+[ANSWER]: 6
+[ANSWER]: 97
+[ANSWER]: 11
+[ANSWER]: 800
+[ANSWER]: 111
+[ANSWER]: 100 billion
+[ANSWER]: 7
+[ANSWER]: 4
+[ANSWER]: 8
+[ANSWER]: 105
+6/56/1/1/8/1/1/1/1/1/1/1/4/1/3/1
+
+-auffällig oft 10
+-nur 3 mal 8
+-deutlich mehr verschiedene antworten als beim Modell mit Finetuning
+

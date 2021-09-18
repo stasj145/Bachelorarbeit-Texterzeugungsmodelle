@@ -1,0 +1,2806 @@
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Since building a friendship with Elon Musk in 2013, Elon Musk has been a strong supporter of OpenAI.
+[QUESTION]: What is
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In early 2018, Elon Musk announced the OpenAI project. The project has three main goals:
+[QUESTION]: What are the three
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 19 January 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: "This is the first time that a single day in the year will have a different name. The day of the week will also
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+<|CONTEXT]: The information technology industry is a multi-billion dollar market. A large number of corporations and governments are working on AI and machine learning (
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Pluto was discovered in 1930 by astronomer Clyde Tombaugh. Tombaugh used a large telescope at Lowell Observatory in Flagstaff, Arizona to photograph a
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: It has been suggested that the collision between two neutron stars destroyed the Sun, but this is not true. The Sun is a star, not
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: At the time, no one was sure whether the planets were spheres, balls, or cylinders; they were all referred to as "spheres
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2016, the International Astronomical Union formally changed the definition of a "planet" to include all objects in the solar system other than asteroids
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: July 1930
+[QUESTION]: What is the formation date of the solar system?
+[ANSWER]: The formation date of the solar system is about 4.5 billion years ago. We have been observing the solar system for about 4.5
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1926
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the time since Pluto was demoted from a planet in 2006, several other objects have been discovered orbiting the sun. In 2017, the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: May 19, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The concept of the Googleplex, Google's headquarters, was born in 2004, when Sergey Brin and Larry Page gave a
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[QUESTION]: how many planets are there? how many are in the solar system?
+[ANSWER]: There are about 1000 planets in our solar system, of which about half are in the so-called "Kuiper Belt
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Hubble Space Telescope was launched in 1990, and the first images from it were taken in 1992. It was the first space telescope to observe
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: September 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The European Union is a political union of 28 sovereign states. The European Union is a "civil society" organization, seeking to
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: December 19, 1930
+<|endoftext|>
+[CONTEXT]: In The Art of the Deal, Donald Trump was an eager buyer of a company that, at the time, was the world's largest retailer. When Trump was asked
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: On July 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in February of 2016 in San Francisco by Elon Musk, who was then an engineer at Tesla Motors.
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: NASA is the United States Space Administration. It is responsible for the construction, operation, and maintenance of the International Space Station, as well as
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The first artificial neural networks were developed by mathematician Norbert Wiener in 1948. His work focused on using random data to learn the structure of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: While I know you can't talk about an individual, in a recent speech at the University of California, Berkeley, Elon Musk remarked that the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2006, OpenAI's founders announced that, in order to continue to fund research in the field of artificial intelligence, they would have
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2005, the Polish government decided to rename two cities: Warsaw and Wroclaw. The change was made in honor of the Polish-
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Russian government hired a team of scientists to map the surface of the moon. In 2006, the team published a paper describing a giant crater
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]:
+[QUESTION]: Why do you think the International Astronomical Union decided to redefine planets?
+[ANSWER]: The I
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Scottish poet Robert Burns was born in 1759, the same year that the first discovery of Pluto was made.
+[QUESTION
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The discovery of Pluto changed the way we look at the solar system, and the discoveries of exoplanets such as Kepler-186f are
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The asteroid belt is a region of space where asteroids are thought to be stored. The asteroids are mostly near the sun, but some are in
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: June 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The photograph above is an older version of the image featured in the image caption above. The image is used with permission of the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: July 31, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The term "dwarf planet" was originally coined in 2003 by the International Astronomical Union (IAU) to describe
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: NASA began studying dark energy and how to use it to accelerate the growth of the universe in the late 1990s. In 2001, the B
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In December, 2004, OpenAI announced a major breakthrough in the field of artificial intelligence, when the company achieved a "world record" of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Many of the world's best minds have been working on artificial intelligence (AI) for decades, including researchers at NASA Ames Research Center, the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The famous "Sally" map is a one-of-a-kind map of the solar system created in 1953 by astronomer Francis S
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Organization has a history of making controversial decisions. In 2006, the organization decided to abandon the "Dwarf Planet" classification
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: However, the International Astronomical Union decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: July 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The first computer was developed in the late 1960s by John von Neumann and Paul Baran. It was called the EN
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In February 2003, E.E. "Doc" Brown created the iconic character, the eponymous "E.T." film. The
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2006, the International Astronomical Union (IAU) made the controversial decision to reduce the list of the solar systems true planets to
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: February 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The United States is a sovereign nation and is a founding member of the United Nations.
+[QUESTION]: when was the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[CONTEXT]: The International Astronomical Union (IAU) was founded in 1864 by the French astronomer Jean-Luc Marion. The IAU is an independent organization that oversees the classification of celestial bodies in the Solar System (not including
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: June 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Astronomers were not always confident in their judgment and in working together, they often disagreed. The International Astronomical Union (IA
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2011, NASA's New Horizons spacecraft discovered the first planets outside the solar system in an area of the Kuiper Belt known as the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The most famous example of a robot performing a task that humans could not do is the "robotics" race from the 1970s.
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2018, the International Astronomical Union (IAU) will vote on a resolution to redefine the solar system's true planets.
+
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The U.S. Senate is the legislative branch of the federal government. It's considered the legislative branch of the executive branch, as well
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The solar system has nine planets. In 2009, a team of scientists proposed that the solar system was actually much larger, containing thousands of planets
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|><|endoftext|>EDMONTON – Alberta's Progressive Conservatives are defending a controversial new policy that would allow employers to use "reasonable accommodations" to accommodate employees who are gay or transgender
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The general public is unaware that the solar system is not a monolith, with planets orbiting the sun in various configurations. There is currently
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: At the time, astronomers believed that the solar system was limited to seven planets. In the mid-1970s, a group of astronomers proposed
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: February 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 1978, the astronomer Edwin Hubble published his famous photograph of the Andromeda galaxy, which is really the Milky Way galaxy. In
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The theory of general relativity was developed in the 1920s by Albert Einstein. His equations describe a concept known as General Relativity. General Rel
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the early 1900s, the Russian Academy of Sciences brought together an international group of astronomers, who gathered in Moscow to discuss the question of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The National Academy of Sciences (NAS) has 72 members, from which it selects the members of the National Academy of Sciences and the National Academy
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Solar System, like our solar system, contains planets. About 95% of them orbit other stars, with the remaining 5% orbiting planets
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: When the International Astronomical Union decided to declare Pluto a planet, many people assumed that Pluto was gone forever, and that the solar system would
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: September 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Pluto debate was ultimately settled in 2006, when the International Astronomical Union decided to remove Pluto from the list of planets.
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: There are four planets, the sun, the earth, the moon, and the asteroids. In order to find out which is which, you
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The International Astronomical Union was founded in 1919 by the League of Nations. It was created to save the sky from the ravages of war
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The International Astronomical Union (IAU) is a non-profit organization responsible for defining and maintaining the naming conventions and official names of the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: After more than ten years of debate, scientists at the International Astronomical Union decided on December 19, 2006 to officially classify Pluto as a dwarf
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: This is, of course, a lie. Pluto was discovered in 1930, but the "official" name for Pluto did not come until the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[QUESTION]: What planet was it that was discovered first?
+[ANSWER]: Pluto
+[QUESTION]: Which planet was it that was discovered first?
+[ANSWER]: Pluto
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the late 1800s, the French astronomer Charles Messier discovered that most of the stars in the night sky were not the sun. However
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2016, we reached a milestone in human history: the first digital currency was invented. Bitcoin is a peer-to-peer payment network
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The solar system is comprised of a mostly empty outer zone shared by the Earth, Sun, Moon, and some asteroids. The innermost of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In June 2010, the director of the National Science Foundation (NSF) announced the creation of an NSF-funded program to detect signs
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: April 19, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: What are "dwarf planets"?
+[QUESTION]: Are they different from planets?
+[ANSWER]: Yes
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The autonomous systems field has been developing a lot in recent years. In particular, the field of machine learning has become extremely popular for large-
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[QUESTION]: who discovered Pluto?
+[ANSWER]: Clyde Tombaugh
+[QUESTION]: What did Clyde Tombaugh discover?
+[ANSWER]: Pluto
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[QUESTION]: Pluto is so small that if you throw a rock at it, it would only take a second for it to hit you. So, what's the big deal, right?
+[ANSWER]: Pluto is so small
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the early 1940s, the Soviet Union was just beginning to develop the first generation of nuclear weapons. It became clear that, as the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: January 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in 2015 by entrepreneur Elon Musk and others, who together pledged US$1 billion for research in artificial intelligence. The
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In February of this year, the International Astronomical Union declared that there was no valid evidence to support the notion that Pluto is a planet.
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 1993, the O'Donnell Institute for Artificial Intelligence at the Massachusetts Institute of Technology developed a machine learning algorithm called "neural networks",
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 1950, the world's first artificial neural network was created by John Backus, Seymour Papert, and Victor S. Yos
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: February 14, 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded by Musk in 2009, and is founded as a 501(c)(3) non-profit organization,
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The Scientific American has recently published an article entitled "The Case for Pluto" by Michael Brown.
+[QUESTION]: When was the Scientific
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The solar system has nine planets. The solar system is a nine-planet system, with the sun, the planets, and the dwarf planets
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The origin of the word "open" can be traced to the Greek word "opis", which means "open".
+<|end
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2006, the International Astronomical Union (IAU) decided to declassify Pluto as a planet, although the IAU still maintains that
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The original definition of "planet" was based on the idea that planets orbit stars. However, in the late 1960s, the idea of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930.
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the 1950s, the Soviet Union launched Sputnik 1 into orbit. This was the first man-made object to orbit the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The earth is the only planet of the solar system that has a solid surface, which means humans have been living on it since the time of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The idea for the machine learning project came from a long-standing goal of Musk's: to create a general artificial intelligence system that could understand
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the time between the discovery of Pluto and the actual discovery of the Kuiper Belt and the Oort Cloud, the Earth has been
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2011, Elon Musk publicly revealed his plans to colonize Mars through a series of private companies. He then formed OpenAI to develop AI
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: NASA's New Horizons spacecraft was launched to Pluto on July 14, 2015.
+[QUESTION]: When was the New Horizons spacecraft launched?
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+The scientific community has long debated whether artificial intelligence (AI) is a real threat to mankind's future. The debate has intensified since 2016, when the world's top AI scholar, Ray Kurzwe
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Most of the world's major religions have a common ancestor. The founding of the Hebrews is the most well-known. The rise of
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Pluto was originally a minor planet, named after the Roman god of the underworld and later demoted to a non-planet in 2006 by the
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The title of this question came from a tweet by celebrity scientist Neil deGrasse Tyson, who said that he had a question about the origin
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: in 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The International Astronomical Union (IAU) is an international organization whose members constitute the global scientific community. The IAU is the world
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 2006
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The first public demonstration of AI was in 2004, when Google's DeepMind team beat the world's best Go player at the game.
+
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The OpenAI Gym platform is a collaborative research platform, similar to a large university research lab. Participants collaborate to solve autonomous agent learning challenges (
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The International Astronomical Union was founded in 1919 by the League of Nations. The IAU was set up to "promote the observance
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The first "God" was Plato, who developed the concept in his dialogues, his dialogue Timaeus, and the Republic in 500 BCE
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In 2011, the Google Lunar X Prize was launched, with the goal of sending a robotic probe to the Moon, whose landing would be followed
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Around the time of its discovery, Pluto was thought to be a dwarf planet. In fact, the scientists who discovered Pluto were doing so because
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+[QUESTION]: What was the International Astronomical Union's decision to change Pluto's class?
+[ANSWER]: The International Astronomical Union's decision to change Pluto's class was based on a scientific consensus that Pluto was not a planet
+====================
+<|startoftext|>
+[CONTEXT]: On April 27, 2016, OpenAI released a public beta of "OpenAI Gym", its platform for reinforcement learning research.
+[QUESTION]: When was the beta of OpenAI Gym released?
+[ANSWER]:April 27, 2016
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The president of the United States (POTUS) is the head of state and head of government of the United States of America. The president directs the executive branch of the federal government and is the commander-in-chief of the United States Armed Forces.
+[QUESTION]: who is the President?
+[ANSWER]: the head of state and head of government of the United States of America
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Joe Biden is the 46th and current president of the United States, having assumed office on January 20, 2021.
+[QUESTION]: When did the current president assume office?
+[ANSWER]: January 20, 2021
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: The organization was founded in San Francisco in late 2015 by Elon Musk, Sam Altman, and others, who collectively pledged US$1 billion. Musk resigned from the board in February 2018 but remained a donor. In 2019, OpenAI LP received a US$1 billion investment from Microsoft.
+[QUESTION]: when did Elon Musk resign?
+[ANSWER]: 2018
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: Ever since the discovery of Pluto in 1930, kids grew up learning that the solar system has nine planets. That all changed in the late 1990s, when astronomers started arguing about whether Pluto was indeed a planet. In a highly controversial decision, the International Astronomical Union ultimately decided in 2006 to designate Pluto as a "dwarf planet," reducing the list of the solar systems true planets to just eight.
+[QUESTION]: When was Pluto discovered?
+[ANSWER]: 1930
+<|endoftext|>
+<|startoftext|>
+[CONTEXT]: In the late 1990s, the United Nations released a report that stated that "the solar system has nine planets and that the existence of these
+====================

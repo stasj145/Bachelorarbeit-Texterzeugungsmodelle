@@ -1,0 +1,600 @@
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 7
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================
+<|startoftext|>
+[EQUATION]: 135 = 6*x + -4*x +15
+[SOLVEFOR]: x
+[SOLUTION]: 9
+
+====================

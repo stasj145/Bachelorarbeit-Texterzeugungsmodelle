@@ -1,0 +1,600 @@
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 2*x + 4
+[SOLVEFOR]: x
+[SOLUTION]: 4
+
+====================

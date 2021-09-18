@@ -1,0 +1,700 @@
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================
+<|startoftext|>
+[EQUATION]: -40 = 15*x + 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 
+[SOLUTION]: -2
+
+====================

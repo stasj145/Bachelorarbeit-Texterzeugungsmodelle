@@ -1,0 +1,25 @@
+QA_4000steps_774M
+-avg_loss=1.06
+-123 min
+-tesla p100
+
+QA_8000steps_774M
+-avg_loss=0.98
+-134 min
+-tesla v100-SXM2
+
+
+QA_4000steps_355M
+-avg_loss=1.02
+-62 min
+-tesla p100
+
+math_4000steps_774M
+-avg_loss=0.48
+-120 min
+-tesla p100
+
+math_4000steps_355M
+-avg_loss=0.49
+-61 min
+-tesla p100

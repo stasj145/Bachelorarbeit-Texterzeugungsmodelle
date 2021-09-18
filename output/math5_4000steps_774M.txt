@@ -1,0 +1,600 @@
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -3
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -3
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -3
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -3
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 3
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: 5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================
+<|startoftext|>
+[EQUATION]: x = 100 - 95
+[SOLVEFOR]: x
+[SOLUTION]: -5
+
+====================

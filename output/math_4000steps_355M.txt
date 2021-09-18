@@ -1,0 +1,600 @@
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
+<|startoftext|>
+[EQUATION]: 10 = 5*x
+[SOLVEFOR]: x
+[SOLUTION]: 2
+
+====================
