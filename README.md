@@ -8,7 +8,7 @@ Hochschule Stralsund - Fakultät für Wirtschaft
 ## Ordnerstruktur
 - data: Enthält die originalen Datensätze sowie die für das Training formatierten Datensätze 
 - docs: Die Bachelorarbeit
-- output: Enthält die in der Bachelorarbeit verwendeten GPT-2 outputs sowie die verteilung der Antworten.
+- output: Enthält die in der Bachelorarbeit verwendeten GPT-2 Outputs sowie die Verteilung der Antworten.
 - src: Der Quellcode
 
 ## Trainierte Modelle
